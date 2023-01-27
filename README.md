@@ -26,10 +26,9 @@ I am passionate about Web Dev & I enjoy learning new things.
 ### Professional Experience
 [SELISE](https://selisecpq.selise.ch/) (Secure Link Services Ltd.)
 
-<table>
-<tr>
-July 2018-Dec 2021 (Software Engineer (Backend))
-<td>
+
+#### July 2018-Dec 2021 (Software Engineer (Backend))
+
 - Developing standards and procedures to ensure that quality standards are met and consistent.
 
 - Recommending technological developments and improvements to reduce inefficiencies.
@@ -47,12 +46,10 @@ July 2018-Dec 2021 (Software Engineer (Backend))
 - Testing software and fixing problems from production environment.
 
 - Working closely with Frontend developers, UI developers, UX designers, and business analysts.
-</td>
-</tr>
 
-<tr>
-Jan 2022 - Dec 2022 (Software Engineer (Backend Lead))
-<td>
+<hr>
+
+#### Jan 2022 - Dec 2022 (Software Engineer (Backend Lead))
 
 - Involve in timeline estimations of new projects and features.
 
@@ -78,12 +75,9 @@ Jan 2022 - Dec 2022 (Software Engineer (Backend Lead))
 
 - Deploying software tools, processes, and metrics.
 
-</td>
-</tr>
+<hr>
 
-<tr>
-Jan 2023 - Present (Technology Manager(Selise CPQ)) 
-<td>
+#### Jan 2023 - Present (Technology Manager(Selise CPQ)) 
 
 - Develop and implement technology strategies and systems to support the organization's short- and long-term goals.
 
@@ -104,9 +98,6 @@ Jan 2023 - Present (Technology Manager(Selise CPQ))
 - Develop and implement disaster recovery plans to ensure the continuity of IT services.
 
 - Handle technical support issues and provide user training.
-</td>
-</tr>
-</table>
 
 <hr>
 
