@@ -12,6 +12,9 @@
 <a href="https://www.youtube.com/channel/UCmzZ4cKQR6fQdDtvguoqe0Q">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>&nbsp; &nbsp;
+<a href="https://stackoverflow.com/users/7688667/bhagawat">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>&nbsp; &nbsp;
 <br />
 
 <hr>
