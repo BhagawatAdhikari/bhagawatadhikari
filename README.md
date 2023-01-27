@@ -2,19 +2,22 @@
 
 <a href="https://www.linkedin.com/in/bhagawat-adhikari-104087117/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a> &nbsp; &nbsp;
+</a> &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://twitter.com/BhagawatAdhika3">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>&nbsp; &nbsp;
+</a>&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="mailto:bhagawatadhikari94@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>&nbsp; &nbsp;
+</a>&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.youtube.com/channel/UCmzZ4cKQR6fQdDtvguoqe0Q">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>&nbsp; &nbsp;
+</a>&nbsp; &nbsp;&nbsp; &nbsp;
 <a href="https://stackoverflow.com/users/7688667/bhagawat">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>&nbsp; &nbsp;
+</a>&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="tel:+97517524816">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/217/217887.png" />
+</a>&nbsp; &nbsp; &nbsp; &nbsp;
 <br />
 
 <hr>
