@@ -15,10 +15,7 @@
 <a href="https://stackoverflow.com/users/7688667/bhagawat">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>&nbsp; &nbsp; &nbsp; &nbsp;
-<a href="tel:+97517524816">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/217/217887.png" />
-</a>&nbsp; &nbsp; &nbsp; &nbsp;
-<br />
+
 
 <hr>
 
