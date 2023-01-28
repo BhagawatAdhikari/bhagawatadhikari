@@ -132,27 +132,39 @@ Associated with Royal University of Bhutan, Sherubtse College. Topper, B.Sc Comp
 
 #### Technical
 
-- Language: Ruby, C, C++, PHP.
+- Language: Ruby <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg"/>, C, C++, 
+  PHP <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg"/>,
+  Java <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>.
 
-- Databases: MySQL, MongoDB, PostgreSQL, Redis.
+- Databases: MySQL <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"  />, 
+   MongoDB <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"  />, 
+   PostgreSQL <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"  />,
+   Redis <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg"  />.
 
-- Versioning Tools: GIT.
+- Versioning Tools: GIT <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"  />.
 
-- Project Management Tools: Azure Board, Jira, Trello, ClickUp, Scrum.
+- Project Management Tools: Azure Board<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg"  />,
+   Jira <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"  />, 
+   Trello <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/trello.svg"  />,
+   ClickUp <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/clickup.svg"  />, Scrum.
 
-- Frameworks: Ruby on Rails.
+- Frameworks: Ruby on Rails <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rubyonrails.svg"  />.
 
-- Testing: Rspec, Unit Tests, Integration Tests, System Tests
+- Testing: Rspec, Unit Tests, Integration Tests, System Tests, Postman <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg"  />
 
-- Issue Tracking Tools: Rollbar, GitHub issues.
+- Issue Tracking Tools: Rollbar, GitHub issues <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  />,.
 
-- Server/Deployments: Docker, Nginx, Kubernetes Deployments, Puma, Linux.
+- Server/Deployments: Docker <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"  />,
+   Nginx <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg"  />,
+   Kubernetes Deployments <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg"  />,
+   Puma, Linux <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg"  />.
 
-- Messaging Systems: RabbitMQ, Sidekiq.
+- Messaging Systems: RabbitMQ <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg"  />, Sidekiq.
 
-- Integrations: Salesforce, Swisscom, ExtraNet, Bidtool, SAMS, Namecheap, Zefix, UID Registry.
+- Integrations: Salesforce <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/salesforce.svg"  />, 
+   Swisscom, ExtraNet, Bidtool, SAMS, Namecheap, Zefix, UID Registry.
 
-- Cloud Computing Platforms: AWS, Azure
+- Cloud Computing Platforms: AWS<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg"  />, Azure
 
 - Debugging: Ability to identify and troubleshoot errors in code
 
