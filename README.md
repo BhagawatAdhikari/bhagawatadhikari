@@ -21,10 +21,11 @@
 
 ### About Me 🚀
 
-<p>I am experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Ruby on Rails, Ruby, Postgres, Mongo DB and HTML. Strong engineering professional with a B.Sc. Computer Science Honours focused in Computer Science from Royal University of Bhutan, Sherubtse College. </p>
- 
-<p>Well experienced in integrating third party APIs both SOAP and REST, example Salesforce, Swisscom etc. Hands on experience on working with both monolith as well as micro-service platforms, with both GraphQL and REST APIs.</p>
-I am passionate about Web Dev & I enjoy learning new things. 
+<p>I am experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Ruby on Rails, Ruby, Postgres, Mongo DB and HTML.</p>
+<p> Strong engineering professional with a B.Sc. Computer Science Honours focused in Computer Science from Royal University of Bhutan, Sherubtse College. </p>
+<p>Well experienced in integrating third party APIs both SOAP and REST, example Salesforce, Swisscom etc.</p>
+<p> Hands on experience on working with both monolith as well as micro-service platforms, with both GraphQL and REST APIs.</p>
+I am passionate about Web Developer & I enjoy learning new things. 
 
 ### Professional Experience
 [SELISE](https://selisecpq.selise.ch/) (Secure Link Services Ltd.)
