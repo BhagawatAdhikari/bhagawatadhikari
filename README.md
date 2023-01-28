@@ -189,3 +189,15 @@ B.Sc. Computer Science Honour's
 - Hindi —  Intermediate
 
 
+📊 Github Status
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=BhagawatAdhikari&theme=dracula&"><p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BhagawatAdhikari&show_icons=true&theme=dracula&locale=en" alt="BhagawatAdhikari" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BhagawatAdhikari&theme=dracula&" alt="BhagawatAdhikari" /></p>
+
+
+![Snake animation](https://github.com/BhagawatAdhikari/BhagawatAdhikari/blob/output/github-contribution-grid-snake.svg)
+
+
