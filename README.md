@@ -13,7 +13,10 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>&nbsp; &nbsp;&nbsp; &nbsp;
 <a href="https://stackoverflow.com/users/7688667/bhagawat">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg" />
+</a>&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://about.me/bhagawatadhikari">
+  <img align="left" width="26px" src="https://about.me/bhagawatadhikari" />
 </a>&nbsp; &nbsp; &nbsp; &nbsp;
 
 
