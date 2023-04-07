@@ -1,0 +1,35 @@
+name: Collect Activity Data
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  collect_activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      
+      - name: Collect Activity Data
+        run: |
+          curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          "https://api.github.com/users/${{ github.actor }}/events?per_page=10" \
+          | jq '.[].created_at' > activity.txt
+      
+      - name: Update Profile
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.actor }}
+          config: |
+            {
+              "metrics": {
+                "activity": {
+                  "data": {
+                    "files": "activity.txt"
+                  },
+                  "template": "<h2>Recent Activity</h2>{{#each data}}<p>{{this}}</p>{{/each}}"
+                }
+              }
+            }
